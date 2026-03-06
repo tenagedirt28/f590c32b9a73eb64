@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="hin",NAME="Toonworld4all.me",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/tenagedirt28/f590c32b9a73eb64/refs/heads/master/audio_0/playlist.m3u8?_cb=1772810040"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",LANGUAGE="eng",NAME="Toonworld4all.me",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/tenagedirt28/f590c32b9a73eb64/refs/heads/master/audio_1/playlist.m3u8?_cb=1772810040"
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1012,AUDIO="audio-group"
+https://raw.githubusercontent.com/tenagedirt28/f590c32b9a73eb64/refs/heads/master/1012p/github_playlist_1012p.m3u8?_cb=1772810040
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,AUDIO="audio-group"
+https://raw.githubusercontent.com/tenagedirt28/f590c32b9a73eb64/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1772810040
